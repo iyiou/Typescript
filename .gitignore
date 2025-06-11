@@ -3,7 +3,7 @@ node_modules/
 
 # Diretório de saída do TypeScript
 dist/
-dist/assets/js/
+frontend/assets/js/
 
 # Arquivos temporários do TypeScript
 *.tsbuildinfo
