@@ -3,7 +3,7 @@ const { sourceMapsEnabled } = require('process');
 
 module.exports = {
   mode: 'development',
-  entry: './src/A018-webpack/index.ts',
+  entry: './src/A019-exercicio/A019-exercicio.ts',
   module: {
     rules: [
       {
